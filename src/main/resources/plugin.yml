@@ -1,0 +1,25 @@
+name: EXP
+version: '${version}'
+main: org.example.mod.exp.multiple
+api-version: 1.19
+commands:
+  multiple:
+    description: ExpDouble-Vip-Svip
+    usage: "/multiple help"
+    permissions: Tujiang.DaSaBi
+    permission-message: You do not have enough permission to do this.
+    aliases:
+      - dexp
+
+permissions:
+  dobuleExp.*:
+    default: op
+
+
+
+
+
+
+
+
+
